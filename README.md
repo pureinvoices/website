@@ -1,4 +1,4 @@
-# Pure Invoices Landing Page and Docs
+# Landing Page and Docs
 
 Pure Invoices is designed to simplify your billing process. Simple, direct, and effective – invoicing done right. Learn more at [pureinvoices.com](https://pureinvoices.com).
 
